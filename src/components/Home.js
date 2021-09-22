@@ -5,6 +5,7 @@ import Portfolios from './Portfolios';
 import Profile from './Profile';
 import Skills from './Skills';
 import Navbar from './Navbar';
+import About from './About';
 
 
 
@@ -44,6 +45,7 @@ class Home extends React.Component {
                              <Profile/>
                          </div>
                          <div className="col s12 m8 l9">
+                             <About/>
                              <Skills/>
                              <Experiences/>
                              <Educations/>
