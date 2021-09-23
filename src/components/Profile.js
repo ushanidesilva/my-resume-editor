@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { HashLink as Link } from "react-router-hash-link";
-import ImgProfile from "../images/person.jpg";
+import ImgProfile from "../images/person2.jpg";
 
 class Profile extends React.Component {
   render() {
@@ -26,7 +26,7 @@ class Profile extends React.Component {
           </div>
           <div class="card-content">
             <span class="card-title activator grey-text text-darken-4">
-            Peter Parker<i class="material-icons right">more_vert</i>
+            Kim Taehyung<i class="material-icons right">more_vert</i>
             </span>
             <p>
               Full Stack Web Developer

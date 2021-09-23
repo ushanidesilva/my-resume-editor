@@ -25,15 +25,15 @@ class About extends React.Component {
           </h6>
          <div className="row mt">
              <div className="col s12 m6 l6 xl6">
-                 <p><strong>Address :</strong>&nbsp;&nbsp;10 Downing Street &nbsp;London &nbsp;UK</p>
-                 <p><strong>Email :</strong>&nbsp;&nbsp;peterparker34@gmail.com</p>
+                 <p><strong>Address :</strong>&nbsp;&nbsp;10 Downing Street &nbsp;Busan &nbsp;Korea</p>
+                 <p><strong>Email :</strong>&nbsp;&nbsp;kimtaehyung95@gmail.com</p>
                  <p><strong>Phone :</strong>&nbsp;&nbsp;0652314078</p>
              </div>
 
              <div className="col s12 m6 l6 xl6">
                  <p><strong>DOB :</strong>&nbsp;&nbsp;30-12-1995</p>
                  <p><strong>Status :</strong>&nbsp;&nbsp;Unmarried</p>
-                 <p><strong>Nationality :</strong>&nbsp;&nbsp;British</p>
+                 <p><strong>Nationality :</strong>&nbsp;&nbsp;Korean</p>
              </div>
          </div>
         </div>
